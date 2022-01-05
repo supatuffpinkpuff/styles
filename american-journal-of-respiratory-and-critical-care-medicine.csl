@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
   <info>
-    <title>American Journal of Respiratory and Critical Care Medicine</title>
-    <id>http://www.zotero.org/styles/american-journal-of-respiratory-and-critical-care-medicine</id>
+    <title>American Journal of Respiratory and Critical Care Medicine - Kirby Gong</title>
+    <id>http://csl.mendeley.com/styles/655684301/american-journal-of-respiratory-and-critical-care-medicine</id>
     <link href="http://www.zotero.org/styles/american-journal-of-respiratory-and-critical-care-medicine" rel="self"/>
     <link href="http://www.zotero.org/styles/nature" rel="template"/>
     <link href="http://www.atsjournals.org/page/AJRCCM/instructions_for_contributors" rel="documentation"/>
@@ -14,11 +14,15 @@
     <contributor>
       <name>Sebastian Karcher</name>
     </contributor>
+    <contributor>
+      <name>Kirby Gong</name>
+      <uri></uri>
+    </contributor>
     <category citation-format="numeric"/>
     <category field="medicine"/>
     <issn>1073-449X</issn>
     <eissn>1535-4970</eissn>
-    <updated>2014-06-03T22:14:43+00:00</updated>
+    <updated>2022-01-05T16:16:06+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <macro name="title">
@@ -119,7 +123,7 @@
       <text variable="citation-number"/>
     </layout>
   </citation>
-  <bibliography et-al-min="30" et-al-use-first="29" second-field-align="flush" entry-spacing="0" line-spacing="2">
+  <bibliography et-al-min="6" et-al-use-first="7" second-field-align="flush" entry-spacing="0" line-spacing="2">
     <layout>
       <text variable="citation-number" suffix="."/>
       <group delimiter=". " suffix=". ">
